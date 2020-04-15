@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\workdir\program\sort\sort\main.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+f:\workdir\program\sort\sort\main.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+f:\workdir\program\sort\sort\main.cpp(203): warning C4018: “<”: 有符号/无符号不匹配
+  SORT.vcxproj -> F:\WORKDIR\Program\SORT\Debug\SORT.exe
+  SORT.vcxproj -> F:\WORKDIR\Program\SORT\Debug\SORT.pdb (Full PDB)

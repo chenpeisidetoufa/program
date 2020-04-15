@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/12/5 14:19:03。
+     1>项目“F:\WORKDIR\Program\Monitor\Monitor\Monitor.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing window.h...
+         Uic'ing window.ui...
+         Rcc'ing window.qrc...
+       ClCompile:
+         D:\vs2013\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include" /I.\GeneratedFiles\Release /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include\QtCore" /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include\QtGui" /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include\QtWidgets" /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include\QtSql" /nologo /W1 /WX- /O2 /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_SQL_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_window.cpp
+         qrc_window.cpp
+         D:\vs2013\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include" /I.\GeneratedFiles\Release /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include\QtCore" /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include\QtGui" /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include\QtWidgets" /I"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\include\QtSql" /nologo /W1 /WX- /O2 /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_SQL_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Release\moc_window.cpp main.cpp window.cpp
+         moc_window.cpp
+         main.cpp
+         window.cpp
+         正在生成代码...
+       Link:
+         D:\vs2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\WORKDIR\Program\Monitor\x64\Release\\Monitor.exe" /NOLOGO /LIBPATH:"D:\QtCreator\qtcreator-5.9.5\5.9.6\msvc2013_64\lib" qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib Qt5Sql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"F:\WORKDIR\Program\Monitor\x64\Release\Monitor.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\WORKDIR\Program\Monitor\x64\Release\Monitor.lib" /MACHINE:X64 x64\Release\qrc_window.obj
+         x64\Release\moc_window.obj
+         x64\Release\main.obj
+         x64\Release\window.obj
+         Monitor.vcxproj -> F:\WORKDIR\Program\Monitor\x64\Release\Monitor.exe
+     1>已完成生成项目“F:\WORKDIR\Program\Monitor\Monitor\Monitor.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.27
